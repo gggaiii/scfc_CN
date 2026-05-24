@@ -109,7 +109,67 @@ export const squadPlayers = [
   { name: "Lewis Fiorini", number: "18", group: "midfielders", role: "中场", image: "assets/squad/Fiorini-01.jpg", intro: "具备创造力的中场球员，可在前场三区参与进攻串联。" },
   { name: "Ben Osborn", number: "23", group: "midfielders", role: "中场", image: "assets/squad/Osbourne-01.jpg", intro: "经验丰富的中场球员，能为球队提供跑动、控球和比赛阅读。" },
   { name: "Tyler Onyango", number: "24", group: "midfielders", role: "中场", squadStatus: "租借", image: "assets/squad/Onyango-01.jpg", intro: "身体条件出色的中场球员，能在攻守转换中提供覆盖。" },
-  { name: "Oliver Norwood", number: "26", group: "midfielders", role: "中场", leadership: "副队长", image: "assets/squad/Norwood-01.jpg", intro: "经验丰富的中场指挥者，长传、定位球和比赛阅读能力突出。" },
+  {
+    name: "Oliver Norwood",
+    number: "26",
+    group: "midfielders",
+    role: "中场",
+    leadership: "副队长",
+    image: "assets/squad/Norwood-01.jpg",
+    intro: "经验丰富的中场指挥者，拥有多次升级经历和丰富英超经验。",
+    highlights: ["2024年加盟", "前北爱尔兰国脚", "三次英冠升级", "PFA英冠年度最佳阵容", "首季49场5球"],
+    detailSections: [
+      {
+        title: "重磅加盟",
+        paragraphs: [
+          "经验丰富的中场球员奥利·诺伍德于2024年夏天加盟斯托克波特郡。在球队以联赛冠军身份升入英甲后不久，这笔签约被视为俱乐部的一次重磅宣言。",
+          "34岁的诺伍德此前一个赛季仍在英超联赛中为谢菲尔德联效力，共出场27次。但在离开布拉莫巷后，他选择与斯托克波特郡签下一份为期三年的合同，来到埃奇利公园。",
+        ],
+      },
+      {
+        title: "谢菲联传奇与升级专家",
+        paragraphs: [
+          "诺伍德被广泛认为是谢菲尔德联的传奇人物之一。在效力球队的六个赛季里，他长期担任队长，并两次帮助球队升入英超联赛。",
+          "作为前北爱尔兰国脚以及一位“升级专家”，奥利拥有丰富的顶级联赛经验，职业生涯曾先后效力于布莱顿、富勒姆以及谢菲尔德联等球队。",
+        ],
+      },
+      {
+        title: "曼联青训与早期历练",
+        paragraphs: [
+          "诺伍德出自曼联青训体系，并通过租借至卡莱尔联、斯坎索普联以及考文垂积累了一线队经验。",
+          "2012年，他拒绝了曼联提供的新合同，为了寻求稳定的一线队机会转投英冠球队哈德斯菲尔德。在约克郡效力两年后，他又先后效力于雷丁和布莱顿。",
+        ],
+      },
+      {
+        title: "布莱顿与富勒姆的升级记忆",
+        paragraphs: [
+          "在克里斯·休顿执教时期，诺伍德是布莱顿首次升入英超的重要成员之一，当赛季联赛出场33次。",
+          "随后一个赛季，他被租借至富勒姆，并再次从英冠完成升级。这一次是通过附加赛实现的：在温布利进行的决赛中，富勒姆1比0击败阿斯顿维拉，替补登场的诺伍德也成为球队冲超的一员。",
+        ],
+      },
+      {
+        title: "连续第三次英冠升级",
+        paragraphs: [
+          "2018/19赛季前，他以租借形式加盟谢菲尔德联，而这笔交易仅六个月后便转为永久转会。令人惊叹的是，他随后连续第三个赛季实现英冠升级。",
+          "当赛季，谢菲尔德联在克里斯·怀尔德带领下获得联赛亚军升入英超，诺伍德在英冠出场43次，并凭借出色表现入选PFA英冠年度最佳阵容。",
+        ],
+      },
+      {
+        title: "英超舞台",
+        paragraphs: [
+          "28岁的诺伍德，在经历三次升级之后，终于迎来了征战英超的机会，并迅速证明了自己。他在谢菲尔德联那个赛季的38场联赛中全部出场，帮助球队以英超第九名完赛，仅一步之遥无缘欧战资格。",
+          "尽管谢菲尔德联于2020年从英超降级，但诺伍德依然是布拉莫巷的重要核心。2022年，他再次作为球队主力，帮助谢菲尔德联重返英超。",
+        ],
+      },
+      {
+        title: "来到埃奇利公园",
+        paragraphs: [
+          "33岁加盟埃奇利公园后，这位中场老将丝毫没有放缓脚步。在2024年8月对阵布里斯托尔流浪者的比赛中完成首秀，并在加盟首个赛季中出场49次、打入5球。",
+          "赛季后半段，他的表现尤为关键，帮助斯托克波特郡最终取得英甲第三名，这是俱乐部23年来的最佳联赛排名。",
+        ],
+      },
+    ],
+  },
   { name: "Odin Bailey", number: "27", group: "midfielders", role: "中场", image: "assets/squad/Bailey-01.jpg", intro: "可在边路或中前场活动，为球队提供盘带和创造力。" },
   { name: "Josh Stokes", number: "28", group: "midfielders", role: "中场/前场", image: "assets/squad/Stokes-01.jpg", intro: "前场与中场之间的连接球员，具备创造机会和冲击防线的能力。" },
   { name: "Corey Edwards", number: "42", group: "midfielders", role: "中场", image: "assets/squad/Edwards-01.jpg", intro: "年轻中场球员，能够继续通过一线队训练和比赛机会积累经验。" },
