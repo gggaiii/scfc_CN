@@ -793,6 +793,77 @@ h1 {
   line-height: 1.25;
 }
 
+.mini-player-card p {
+  margin: 10px 0 0;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--muted);
+}
+
+.player-detail-box {
+  padding: 18px;
+  margin: 18px 0 20px;
+  background: #f6f9fd;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.player-detail-box h2 {
+  margin: 0 0 10px;
+  font-size: 18px;
+  color: var(--deep-blue);
+}
+
+.player-detail-box p {
+  margin: 0;
+}
+
+.player-highlight-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 10px;
+  margin: 18px 0;
+}
+
+.player-highlight-grid span {
+  display: flex;
+  align-items: center;
+  min-height: 52px;
+  padding: 10px 12px;
+  font-size: 13px;
+  font-weight: 900;
+  line-height: 1.35;
+  color: var(--deep-blue);
+  background: #fff7d6;
+  border: 1px solid rgba(8, 52, 95, 0.1);
+  border-radius: 6px;
+}
+
+.player-detail-rich {
+  display: grid;
+  gap: 18px;
+}
+
+.player-detail-section {
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--line);
+}
+
+.player-detail-section:last-child {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.player-detail-section h3 {
+  margin: 0 0 8px;
+  font-size: 16px;
+  color: var(--blue);
+}
+
+.player-detail-section p + p {
+  margin-top: 10px;
+}
+
 .player-card strong {
   display: block;
   margin-bottom: 8px;
