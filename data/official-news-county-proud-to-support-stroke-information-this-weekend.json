@@ -1,0 +1,82 @@
+{
+  "postTitle": "County proud to support Stroke Information this weekend",
+  "listingMediaLibraryID": null,
+  "mediaLibraryID": "81145940-79d7-11f1-bee3-bf4275ba091b",
+  "hidePublicationDate": false,
+  "keywords": null,
+  "postStatus": "Published",
+  "metaTitle": null,
+  "hideFromVoice": false,
+  "content": [
+    {
+      "rowData": {
+        "widgetData": {
+          "content": "<p>Supporters attending Saturday's fixture against Reading in Sky Bet League One will have the opportunity to support the charity Stroke Information, as volunteers collect donations around Edgeley Park ahead of kick-off and at half-time.&nbsp;</p>\n<p>Stroke Information was founded by Nick Clarke, a former Stockport County reserve-team player and steward, who now serves as the club's Disability Liaison and Access Officer. Following a severe stroke in 2012, Nick was determined to use his experience to help others facing similar challenges.</p>\n<p>All of the charity's trustees have lived experience of stroke, with their guiding motto being: \"We care because we've been there.\" Stroke Information provides vital support, advice and information to stroke survivors and their families, helping them navigate life after stroke and access the help available to them.</p>\n<p>There are more than 7,300 stroke survivors living in Stockport alone, while over 17 million people worldwide experience a stroke every year. Through the charity's work, Nick hopes to help stroke survivors rebuild confidence, regain their sense of worth and ensure nobody feels they have to face their recovery journey alone.</p>\n<p>Recent campaigns, including Survival Is Not Enough, have highlighted the ongoing challenges faced by stroke survivors and reinforced the importance of accessible support services within local communities.</p>\n<p>Every contribution made this weekend will help Stroke Information continue to provide essential support to stroke survivors and their families across Stockport and beyond.</p>\n<p>We would like to thank County supporters in advance for their generosity and encourage anyone attending the match to give what they can to support this fantastic local charity.</p>\n<p>For more information about Stroke Information, visit <a href=\"https://www.strokeinformation.co.uk\" target=\"_blank\" rel=\"noopener\">www.strokeinformation.co.uk</a>.</p>",
+          "contentDouble": null,
+          "imageKey": null,
+          "mediaLibraryID": null,
+          "toggleDouble": null
+        },
+        "widgetID": "230e6650-de8c-11f1-bba3-d5161049d58d",
+        "widgetName": "Text Block",
+        "widgetType": "TextBlockWidget"
+      },
+      "rowID": "230e3f40-de8c-11f1-bba3-d5161049d58d"
+    }
+  ],
+  "savedTimestamp": "2026-11-12T11:30:34Z",
+  "heroStyleLarge": "Deep",
+  "publishedDateTime": "2026-11-12T11:30:17Z",
+  "cardStyle": "",
+  "postSlugSuffix": "county-proud-to-support-stroke-information-this-weekend",
+  "postSlug": "/news/2026/november/12/county-proud-to-support-stroke-information-this-weekend/",
+  "postAuthor": "",
+  "postCategory": "/community-trust",
+  "unscheduleDateTime": null,
+  "postID": "6f450ce0-de8c-11f1-96e5-23ae694112dd",
+  "childFriendly": false,
+  "disableAdvertising": false,
+  "heroStyleSmall": "Deep",
+  "description": null,
+  "tagsData": {
+    "clubTags": [],
+    "competitionTags": [],
+    "eventsTags": [],
+    "fixtureTags": [],
+    "playerTags": [],
+    "squadTags": [],
+    "tournamentTypeTags": []
+  },
+  "imageOrigins": {
+    "defaultOrigin": "center",
+    "largeOrigin": "",
+    "smallOrigin": ""
+  },
+  "unschedule": 0,
+  "textToVoice": null,
+  "sendToOneFootball": 0,
+  "showInFeed": 1,
+  "feedWidth": "single",
+  "propertyID": "",
+  "heroSmallMediaLibraryID": null,
+  "scheduled": 0,
+  "imageData": {
+    "location": "https://s3.eu-west-1.amazonaws.com/gc-media-assets-v2.gc.stockportcountyfcservices.co.uk/81145940-79d7-11f1-bee3-bf4275ba091b.jpg",
+    "searchString": "collectionbucket-19 (1).jpg",
+    "mediaLibraryID": "81145940-79d7-11f1-bee3-bf4275ba091b",
+    "mediaDirectoryID": "root",
+    "status": "ACTIVE",
+    "savedTimestamp": "2026-07-07T07:43:11Z",
+    "fileType": "image/jpeg",
+    "description": "",
+    "key": "81145940-79d7-11f1-bee3-bf4275ba091b.jpg",
+    "name": "CollectionBucket-19 (1).jpg",
+    "tags": []
+  },
+  "forcedOrder": 6,
+  "inApp": 1,
+  "newsCategory": "Community Trust",
+  "newsCategoryID": "/community-trust",
+  "onSite": 1,
+  "postCount": 7
+}

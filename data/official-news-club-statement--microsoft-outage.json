@@ -1,0 +1,85 @@
+{
+  "scheduled": 0,
+  "disableAdvertising": false,
+  "childFriendly": false,
+  "content": [
+    {
+      "rowData": {
+        "widgetData": {
+          "content": "<p>The club is aware that supporters may currently be encountering issues accessing their tickets for tomorrow&rsquo;s Sky Bet League One fixture against Reading due to the global Microsoft outage.</p>\n<p>If the outage continues into Saturday, supporters unable to download their tickets will need to bring their supporter ID and a form of personal identification with them to the ticket office at Edgeley Park, so our team can verify your booking and provide you with a physical ticket for the game.</p>\n<p>Due to this issue, we advise that all supporters arrive at Edgeley Park an hour ahead of kick-off to avoid significant queuing time.</p>\n<p>Your supporter ID number can be found in the bottom left corner when logging in to your <a href=\"https://tickets.stockportcounty.com/\">online ticketing account.</a></p>\n<p>If you purchased your ticket using a Microsoft Outlook email address and can still access it, we recommend downloading it to your digital wallet ahead of the game.</p>\n<p>We apologise for any inconvenience this may cause and will provide further updates as soon as more information becomes available.</p>",
+          "contentDouble": null,
+          "imageKey": null,
+          "mediaLibraryID": null,
+          "toggleDouble": null
+        },
+        "widgetID": "2f51a801-df59-11f1-880e-53fd43548a57",
+        "widgetName": "Text Block",
+        "widgetType": "TextBlockWidget"
+      },
+      "rowID": "2f51a800-df59-11f1-880e-53fd43548a57"
+    }
+  ],
+  "description": null,
+  "postSlugSuffix": "club-statement--microsoft-outage",
+  "sendToOneFootball": 0,
+  "postAuthor": "",
+  "unschedule": 0,
+  "postSlug": "/news/2026/november/13/club-statement--microsoft-outage/",
+  "unscheduleDateTime": null,
+  "heroStyleLarge": "Deep",
+  "heroSmallMediaLibraryID": null,
+  "updatedAt": 1794572983300,
+  "cardStyle": "",
+  "feedWidth": "single",
+  "postCategory": "/club",
+  "publishedDateTime": "2026-11-13T12:29:00Z",
+  "textToVoice": null,
+  "hidePublicationDate": false,
+  "keywords": null,
+  "metaTitle": null,
+  "postID": "625691c0-df59-11f1-acd5-abbac61df1ae",
+  "hideFromVoice": false,
+  "mediaLibraryID": "3d0109e0-6bbb-11f0-af3f-67cabc7ec1c2",
+  "postTitle": "Club Statement: Microsoft Outage",
+  "showInFeed": 1,
+  "listingMediaLibraryID": null,
+  "featuredOrder": 20,
+  "heroStyleSmall": "Deep",
+  "featured": 1,
+  "postStatus": "Published",
+  "tagsData": {
+    "clubTags": [],
+    "competitionTags": [],
+    "eventsTags": [],
+    "fixtureTags": [],
+    "playerTags": [],
+    "squadTags": [],
+    "tournamentTypeTags": []
+  },
+  "imageOrigins": {
+    "defaultOrigin": "center",
+    "largeOrigin": "",
+    "smallOrigin": ""
+  },
+  "savedTimestamp": "2026-11-13T12:07:01Z",
+  "propertyID": "",
+  "imageData": {
+    "location": "https://s3.eu-west-1.amazonaws.com/gc-media-assets-v2.gc.stockportcountyfcservices.co.uk/3d0109e0-6bbb-11f0-af3f-67cabc7ec1c2.jpg",
+    "searchString": "statement-9x16.jpg",
+    "mediaLibraryID": "3d0109e0-6bbb-11f0-af3f-67cabc7ec1c2",
+    "mediaDirectoryID": "root",
+    "status": "ACTIVE",
+    "savedTimestamp": "2025-07-28T14:00:37Z",
+    "fileType": "image/jpeg",
+    "description": "",
+    "key": "3d0109e0-6bbb-11f0-af3f-67cabc7ec1c2.jpg",
+    "name": "statement-9x16.jpg",
+    "tags": []
+  },
+  "forcedOrder": 1,
+  "inApp": 1,
+  "newsCategory": "Club",
+  "newsCategoryID": "/club",
+  "onSite": 1,
+  "postCount": 119
+}

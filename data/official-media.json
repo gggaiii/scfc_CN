@@ -1,0 +1,1262 @@
+{
+  "checkedAt": "2026-11-14T04:17:29.147Z",
+  "players": [
+    {
+      "name": "Ollie Whatmuff",
+      "group": "goalkeepers",
+      "number": "1",
+      "role": "门将",
+      "image": "assets/official/squad/ollie-whatmuff.jpg",
+      "squadStatus": "租借",
+      "onLoanFrom": "Manchester City",
+      "playerID": "p549901",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-07-01",
+      "country": "England"
+    },
+    {
+      "name": "Luca Ashby-Hammond",
+      "group": "goalkeepers",
+      "number": "26",
+      "role": "门将",
+      "image": "assets/official/squad/luca-ashby-hammond.jpg",
+      "onLoanFrom": null,
+      "playerID": "p220705",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-07-31",
+      "country": "England"
+    },
+    {
+      "name": "Andrew Wogan",
+      "group": "goalkeepers",
+      "number": "32",
+      "role": "门将",
+      "image": "assets/official/squad/andrew-wogan.jpg",
+      "onLoanFrom": null,
+      "playerID": "p612351",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2024-07-07",
+      "country": "Republic of Ireland"
+    },
+    {
+      "name": "Josh Dacres-Cogley",
+      "group": "defenders",
+      "number": "2",
+      "role": "后卫",
+      "image": "assets/official/squad/josh-dacres-cogley.jpg",
+      "onLoanFrom": null,
+      "playerID": "p213279",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-01-15",
+      "country": "England"
+    },
+    {
+      "name": "Ethan Pye",
+      "group": "defenders",
+      "number": "5",
+      "role": "后卫",
+      "image": "assets/official/squad/ethan-pye.jpg",
+      "onLoanFrom": null,
+      "playerID": "p545956",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2021-07-01",
+      "country": "England"
+    },
+    {
+      "name": "Eoghan O'Connell",
+      "group": "defenders",
+      "number": "6",
+      "role": "后卫",
+      "image": "assets/official/squad/eoghan-o-connell.jpg",
+      "onLoanFrom": null,
+      "playerID": "p177084",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-07-01",
+      "country": "Republic of Ireland"
+    },
+    {
+      "name": "Tom Wilson-Brown",
+      "group": "defenders",
+      "number": "12",
+      "role": "后卫",
+      "image": "assets/official/squad/tom-wilson-brown.jpg",
+      "onLoanFrom": null,
+      "playerID": "p532535",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-08-11",
+      "country": "England"
+    },
+    {
+      "name": "Tayo Edun",
+      "group": "defenders",
+      "number": "14",
+      "role": "后卫",
+      "image": "assets/official/squad/tayo-edun.jpg",
+      "onLoanFrom": null,
+      "playerID": "p169128",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2025-07-01",
+      "country": "England"
+    },
+    {
+      "name": "Ryan Rydel",
+      "group": "defenders",
+      "number": "17",
+      "role": "后卫",
+      "image": "assets/official/squad/ryan-rydel.jpg",
+      "onLoanFrom": null,
+      "playerID": "p465239",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2021-04-22",
+      "country": "England"
+    },
+    {
+      "name": "Kyron Gordon",
+      "group": "defenders",
+      "number": "24",
+      "role": "后卫",
+      "image": "assets/official/squad/kyron-gordon.jpg",
+      "onLoanFrom": null,
+      "playerID": "p478449",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-07-01",
+      "country": "England"
+    },
+    {
+      "name": "Mamadou Jobe",
+      "group": "defenders",
+      "number": "25",
+      "role": "后卫",
+      "image": "assets/official/squad/mamadou-jobe.jpg",
+      "onLoanFrom": null,
+      "playerID": "p546400",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-08-28",
+      "country": "England"
+    },
+    {
+      "name": "Jay Mingi",
+      "group": "defenders",
+      "number": "31",
+      "role": "后卫",
+      "image": "assets/official/squad/jay-mingi.jpg",
+      "onLoanFrom": null,
+      "playerID": "p232389",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2024-06-14",
+      "country": "England"
+    },
+    {
+      "name": "Brad Hills",
+      "group": "defenders",
+      "number": "33",
+      "role": "后卫",
+      "image": "assets/official/squad/brad-hills.jpg",
+      "onLoanFrom": null,
+      "playerID": "p504758",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2025-08-14",
+      "country": "England"
+    },
+    {
+      "name": "Lewis Bate",
+      "group": "midfielders",
+      "number": "4",
+      "role": "中场",
+      "image": "assets/official/squad/lewis-bate.jpg",
+      "onLoanFrom": null,
+      "playerID": "p450529",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2024-07-01",
+      "country": "England"
+    },
+    {
+      "name": "Oliver Norwood",
+      "group": "midfielders",
+      "number": "10",
+      "role": "中场",
+      "image": "assets/official/squad/oliver-norwood.jpg",
+      "onLoanFrom": null,
+      "playerID": "p79934",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2024-08-23",
+      "country": "Northern Ireland"
+    },
+    {
+      "name": "Harry Wood",
+      "group": "midfielders",
+      "number": "16",
+      "role": "中场",
+      "image": "assets/official/squad/harry-wood.jpg",
+      "onLoanFrom": null,
+      "playerID": "p513826",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-07-16",
+      "country": "England"
+    },
+    {
+      "name": "Lewis Fiorini",
+      "group": "midfielders",
+      "number": "18",
+      "role": "中场",
+      "image": "assets/official/squad/lewis-fiorini.jpg",
+      "onLoanFrom": null,
+      "playerID": "p242512",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2024-07-02",
+      "country": "Scotland"
+    },
+    {
+      "name": "Jason Adigun",
+      "group": "midfielders",
+      "number": "20",
+      "role": "中场",
+      "image": "assets/official/squad/jason-adigun.jpg",
+      "onLoanFrom": null,
+      "playerID": "p535393",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-07-07",
+      "country": "England"
+    },
+    {
+      "name": "Ben Osborn",
+      "group": "midfielders",
+      "number": "23",
+      "role": "中场",
+      "image": "assets/official/squad/ben-osborn.jpg",
+      "onLoanFrom": null,
+      "playerID": "p167878",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-07-27",
+      "country": "England"
+    },
+    {
+      "name": "Jack Diamond",
+      "group": "forwards",
+      "number": "7",
+      "role": "前锋",
+      "image": "assets/official/squad/jack-diamond.jpg",
+      "onLoanFrom": null,
+      "playerID": "p222015",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2024-07-01",
+      "country": "England"
+    },
+    {
+      "name": "Benoný Andrésson",
+      "group": "forwards",
+      "number": "9",
+      "role": "前锋",
+      "image": "assets/official/squad/benony-andresson.jpg",
+      "onLoanFrom": null,
+      "playerID": "p543468",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2025-01-01",
+      "country": "Iceland"
+    },
+    {
+      "name": "Ryan Glover",
+      "group": "forwards",
+      "number": "15",
+      "role": "前锋",
+      "image": "assets/official/squad/ryan-glover.jpg",
+      "onLoanFrom": null,
+      "playerID": "p231848",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-06-15",
+      "country": "England"
+    },
+    {
+      "name": "Kyle Wootton",
+      "group": "forwards",
+      "number": "19",
+      "role": "前锋",
+      "image": "assets/official/squad/kyle-wootton.jpg",
+      "onLoanFrom": null,
+      "playerID": "p194456",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2022-06-01",
+      "country": "England"
+    },
+    {
+      "name": "Mikaël Mandron",
+      "group": "forwards",
+      "number": "22",
+      "role": "前锋",
+      "image": "assets/official/squad/mikael-mandron.jpg",
+      "onLoanFrom": null,
+      "playerID": "p114312",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-08-05",
+      "country": "France"
+    },
+    {
+      "name": "Che Gardner",
+      "group": "forwards",
+      "number": "28",
+      "role": "前锋",
+      "image": "assets/official/squad/che-gardner.jpg",
+      "onLoanFrom": null,
+      "playerID": "p664054",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2024-07-01",
+      "country": "Jamaica"
+    },
+    {
+      "name": "Adama Sidibeh",
+      "group": "forwards",
+      "number": "29",
+      "role": "前锋",
+      "image": "assets/official/squad/adama-sidibeh.jpg",
+      "onLoanFrom": null,
+      "playerID": "p647587",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-01-27",
+      "country": "Gambia"
+    },
+    {
+      "name": "Ethan Ennis",
+      "group": "forwards",
+      "number": "30",
+      "role": "前锋",
+      "image": "assets/official/squad/ethan-ennis.jpg",
+      "onLoanFrom": null,
+      "playerID": "p493962",
+      "sourceUrl": "https://www.stockportcounty.com/teams/",
+      "joinDate": "2026-08-17",
+      "country": "England"
+    },
+    {
+      "name": "Jimmy McNulty",
+      "group": "coaches",
+      "role": "主教练",
+      "image": "assets/official/squad/jimmy-mcnulty.jpg",
+      "playerID": "98eb7d60-6b58-11f1-8505-2f5700d36710",
+      "sourceUrl": "https://www.stockportcounty.com/teams/"
+    },
+    {
+      "name": "Jason Taylor",
+      "group": "coaches",
+      "role": "助理主教练",
+      "image": "assets/official/squad/jason-taylor.jpg",
+      "playerID": "b6d87850-6b58-11f1-8505-2f5700d36710",
+      "sourceUrl": "https://www.stockportcounty.com/teams/"
+    },
+    {
+      "name": "Matty Done",
+      "group": "coaches",
+      "role": "一线队教练",
+      "image": "assets/official/squad/matty-done.jpg",
+      "playerID": "cad0ed60-6b58-11f1-8505-2f5700d36710",
+      "sourceUrl": "https://www.stockportcounty.com/teams/"
+    },
+    {
+      "name": "Joppe Meulensteen",
+      "group": "coaches",
+      "role": "一线队教练",
+      "image": "assets/official/squad/joppe-meulensteen.jpg",
+      "playerID": "86467de0-608c-11f0-95a1-21128f596a09",
+      "sourceUrl": "https://www.stockportcounty.com/teams/"
+    },
+    {
+      "name": "Ben Hinchliffe",
+      "group": "coaches",
+      "role": "门将教练主管",
+      "image": "assets/official/squad/ben-hinchliffe.jpg",
+      "playerID": "1624ca50-812c-11f1-96d2-91c5e588858c",
+      "sourceUrl": "https://www.stockportcounty.com/teams/"
+    },
+    {
+      "name": "Sam Holt",
+      "group": "coaches",
+      "role": "运动表现主管",
+      "image": "assets/official/squad/sam-holt.jpg",
+      "playerID": "fa4a92f0-608a-11f0-9f6f-490c3523f456",
+      "sourceUrl": "https://www.stockportcounty.com/teams/"
+    },
+    {
+      "name": "Matt Jansen",
+      "group": "coaches",
+      "role": "球员联络官",
+      "image": "assets/official/squad/matt-jansen.jpg",
+      "playerID": "9efe6c40-608b-11f0-9f6f-490c3523f456",
+      "sourceUrl": "https://www.stockportcounty.com/teams/"
+    },
+    {
+      "name": "John Shannon",
+      "group": "coaches",
+      "role": "战术分析教练",
+      "image": "assets/official/squad/john-shannon.jpg",
+      "playerID": "fc672bf0-6b58-11f1-8505-2f5700d36710",
+      "sourceUrl": "https://www.stockportcounty.com/teams/"
+    },
+    {
+      "name": "Corey Addai",
+      "group": "goalkeepers",
+      "role": "门将",
+      "squadStatus": "外租",
+      "loanClub": "Burton Albion",
+      "image": "assets/official/squad/corey-addai.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/teams/"
+    },
+    {
+      "name": "Owen Dodgson",
+      "number": "3",
+      "group": "defenders",
+      "role": "后卫",
+      "squadStatus": "外租",
+      "loanClub": "Mansfield Town",
+      "image": "assets/official/squad/owen-dodgson.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/teams/"
+    },
+    {
+      "name": "Callum Camps",
+      "number": "8",
+      "group": "midfielders",
+      "role": "中场",
+      "squadStatus": "外租",
+      "loanClub": "Carlisle United",
+      "image": "assets/official/squad/callum-camps.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/teams/"
+    },
+    {
+      "name": "Malik Mothersille",
+      "number": "11",
+      "group": "forwards",
+      "role": "前锋",
+      "squadStatus": "外租",
+      "loanClub": "Wycombe Wanderers",
+      "image": "assets/official/squad/malik-mothersille.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/teams/"
+    },
+    {
+      "name": "Owen Moxon",
+      "number": "21",
+      "group": "midfielders",
+      "role": "中场",
+      "squadStatus": "外租",
+      "loanClub": "Cambridge United",
+      "image": "assets/official/squad/owen-moxon.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/teams/"
+    }
+  ],
+  "fixtures": [
+    {
+      "idEvent": "g2647979",
+      "dateEvent": "2026-11-14",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Reading",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t108.png"
+    },
+    {
+      "idEvent": "g2647986",
+      "dateEvent": "2026-11-21",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Cambridge United",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Cledara Abbey Stadium",
+      "strHomeTeamBadge": "assets/official/badges/t101.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648003",
+      "dateEvent": "2026-11-28",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Leyton Orient",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t85.png"
+    },
+    {
+      "idEvent": "g2648013",
+      "dateEvent": "2026-12-01",
+      "strTime": "19:45:00",
+      "strHomeTeam": "Mansfield Town",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "One Call Stadium",
+      "strHomeTeamBadge": "assets/official/badges/t77.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2700421",
+      "dateEvent": "2026-12-05",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Reading",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English FA Cup",
+      "strVenue": "Select Car Leasing Stadium",
+      "strHomeTeamBadge": "assets/official/badges/t108.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648029",
+      "dateEvent": "2026-12-12",
+      "strTime": "12:30:00",
+      "strHomeTeam": "Stevenage",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "SPORTA Arena",
+      "strHomeTeamBadge": "assets/official/badges/t288.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648039",
+      "dateEvent": "2026-12-19",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "MK Dons",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t22.png"
+    },
+    {
+      "idEvent": "g2648042",
+      "dateEvent": "2026-12-26",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Bradford City",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Mbanq Valley Parade",
+      "strHomeTeamBadge": "assets/official/badges/t55.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648063",
+      "dateEvent": "2026-12-29",
+      "strTime": "19:45:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Huddersfield Town",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t38.png"
+    },
+    {
+      "idEvent": "g2648075",
+      "dateEvent": "2027-01-02",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Burton Albion",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t587.png"
+    },
+    {
+      "idEvent": "g2648085",
+      "dateEvent": "2027-01-09",
+      "strTime": "15:00:00",
+      "strHomeTeam": "MK Dons",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Stadium MK",
+      "strHomeTeamBadge": "assets/official/badges/t22.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648092",
+      "dateEvent": "2027-01-16",
+      "strTime": "12:30:00",
+      "strHomeTeam": "Bromley",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Copperjax Community Stadium",
+      "strHomeTeamBadge": "assets/official/badges/t2050.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648111",
+      "dateEvent": "2027-01-19",
+      "strTime": "19:45:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Doncaster Rovers",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t290.png"
+    },
+    {
+      "idEvent": "g2648123",
+      "dateEvent": "2027-01-23",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Notts County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t104.png"
+    },
+    {
+      "idEvent": "g2648126",
+      "dateEvent": "2027-01-30",
+      "strTime": "15:00:00",
+      "strHomeTeam": "AFC Wimbledon",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "The Cherry Red Records Stadium",
+      "strHomeTeamBadge": "assets/official/badges/t2623.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648149",
+      "dateEvent": "2027-02-06",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Wycombe Wanderers",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Adams Park",
+      "strHomeTeamBadge": "assets/official/badges/t112.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648161",
+      "dateEvent": "2027-02-09",
+      "strTime": "19:45:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Luton Town",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t102.png"
+    },
+    {
+      "idEvent": "g2648173",
+      "dateEvent": "2027-02-13",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Wigan Athletic",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t111.png"
+    },
+    {
+      "idEvent": "g2648180",
+      "dateEvent": "2027-02-20",
+      "strTime": "12:30:00",
+      "strHomeTeam": "Leicester City",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "King Power Stadium",
+      "strHomeTeamBadge": "assets/official/badges/t13.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648197",
+      "dateEvent": "2027-02-27",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Reading",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Select Car Leasing Stadium",
+      "strHomeTeamBadge": "assets/official/badges/t108.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648207",
+      "dateEvent": "2027-03-06",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Plymouth Argyle",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t76.png"
+    },
+    {
+      "idEvent": "g2648211",
+      "dateEvent": "2027-03-13",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Blackpool",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Bloomfield Road",
+      "strHomeTeamBadge": "assets/official/badges/t92.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648231",
+      "dateEvent": "2027-03-20",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Cambridge United",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t101.png"
+    },
+    {
+      "idEvent": "g2648235",
+      "dateEvent": "2027-03-26",
+      "strTime": "15:00:00",
+      "strHomeTeam": "Burton Albion",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Pirelli Stadium",
+      "strHomeTeamBadge": "assets/official/badges/t587.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648255",
+      "dateEvent": "2027-03-29",
+      "strTime": "14:00:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Bradford City",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t55.png"
+    },
+    {
+      "idEvent": "g2648261",
+      "dateEvent": "2027-04-03",
+      "strTime": "14:00:00",
+      "strHomeTeam": "Huddersfield Town",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Accu Stadium",
+      "strHomeTeamBadge": "assets/official/badges/t38.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648279",
+      "dateEvent": "2027-04-10",
+      "strTime": "14:00:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Stevenage",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t288.png"
+    },
+    {
+      "idEvent": "g2648290",
+      "dateEvent": "2027-04-13",
+      "strTime": "18:45:00",
+      "strHomeTeam": "Peterborough United",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Weston Homes Stadium",
+      "strHomeTeamBadge": "assets/official/badges/t73.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648304",
+      "dateEvent": "2027-04-17",
+      "strTime": "14:00:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Sheffield Wednesday",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t19.png"
+    },
+    {
+      "idEvent": "g2648307",
+      "dateEvent": "2027-04-24",
+      "strTime": "14:00:00",
+      "strHomeTeam": "Barnsley",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Oakwell",
+      "strHomeTeamBadge": "assets/official/badges/t37.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648328",
+      "dateEvent": "2027-04-27",
+      "strTime": "18:45:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Oxford United",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t106.png"
+    },
+    {
+      "idEvent": "g2648336",
+      "dateEvent": "2027-05-01",
+      "strTime": "14:00:00",
+      "strHomeTeam": "Leyton Orient",
+      "strAwayTeam": "Stockport County",
+      "strLeague": "English Football League - League One",
+      "strVenue": "BetWright Stadium",
+      "strHomeTeamBadge": "assets/official/badges/t85.png",
+      "strAwayTeamBadge": "assets/official/badges/t48.png"
+    },
+    {
+      "idEvent": "g2648351",
+      "dateEvent": "2027-05-08",
+      "strTime": "11:30:00",
+      "strHomeTeam": "Stockport County",
+      "strAwayTeam": "Mansfield Town",
+      "strLeague": "English Football League - League One",
+      "strVenue": "Edgeley Park",
+      "strHomeTeamBadge": "assets/official/badges/t48.png",
+      "strAwayTeamBadge": "assets/official/badges/t77.png"
+    }
+  ],
+  "news": [
+    {
+      "slug": "eoghan-o-connell-named-as-october-s-christophe-duchamp-player-of-the-month-",
+      "image": "assets/official/news/eoghan-o-connell-named-as-october-s-christophe-duchamp-player-of-the-month-.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/news/2026/november/13/eoghan-o-connell-named-as-october-s-christophe-duchamp-player-of-the-month-/"
+    },
+    {
+      "slug": "match-preview--county-v-reading",
+      "image": "assets/official/news/match-preview--county-v-reading.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/news/2026/november/13/match-preview--county-v-reading/"
+    },
+    {
+      "slug": "club-statement--microsoft-outage",
+      "image": "assets/official/news/club-statement--microsoft-outage.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/news/2026/november/13/club-statement--microsoft-outage/"
+    },
+    {
+      "slug": "stockport-county-community-trust-to-launch-project-for-fans--supported-by-the-premier-league",
+      "image": "assets/official/news/stockport-county-community-trust-to-launch-project-for-fans--supported-by-the-premier-league.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/news/2026/november/12/stockport-county-community-trust-to-launch-project-for-fans--supported-by-the-premier-league/"
+    },
+    {
+      "slug": "match-officials---reading--h-",
+      "image": "assets/official/news/match-officials---reading--h-.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/news/2026/november/12/match-officials---reading--h-/"
+    },
+    {
+      "slug": "county-courtyard-reading",
+      "image": "assets/official/news/county-courtyard-reading.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/news/2026/november/12/county-courtyard-reading/"
+    },
+    {
+      "slug": "county-proud-to-support-stroke-information-this-weekend",
+      "image": "assets/official/news/county-proud-to-support-stroke-information-this-weekend.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/news/2026/november/12/county-proud-to-support-stroke-information-this-weekend/"
+    },
+    {
+      "slug": "club-statement-lifetime-ban",
+      "image": "assets/official/news/club-statement-lifetime-ban.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/news/2026/november/12/club-statement-lifetime-ban/"
+    },
+    {
+      "slug": "jersey-mike-s-trophy-match-report--county---tranmere",
+      "image": "assets/official/news/jersey-mike-s-trophy-match-report--county---tranmere.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/news/2026/november/10/jersey-mike-s-trophy-match-report--county---tranmere/"
+    },
+    {
+      "slug": "county-discover-fa-cup-second-round-opponents",
+      "image": "assets/official/news/county-discover-fa-cup-second-round-opponents.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/news/2026/november/09/county-discover-fa-cup-second-round-opponents/"
+    },
+    {
+      "slug": "match-officials---tranmere-rovers--h-",
+      "image": "assets/official/news/match-officials---tranmere-rovers--h-.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/news/2026/november/09/match-officials---tranmere-rovers--h-/"
+    },
+    {
+      "slug": "match-report--york-city-ladies-0-4-county-women",
+      "image": "assets/official/news/match-report--york-city-ladies-0-4-county-women.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/news/2026/november/09/match-report--york-city-ladies-0-4-county-women/"
+    },
+    {
+      "slug": "bolton-wanderers-v-county-preview",
+      "image": "assets/official/news/bolton-wanderers-v-county-preview.jpg",
+      "sourceUrl": "https://www.stockportcounty.com/news/2026/may/23/match-preview--bolton-wanderers-v-county-/"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/official/squad/ollie-whatmuff.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/212d7de0-b767-11f1-8b42-6b4da92aaab0.jpg",
+      "bytes": 77294
+    },
+    {
+      "path": "assets/official/squad/luca-ashby-hammond.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/2146f950-b767-11f1-a218-8ddd89c7c99c.jpg",
+      "bytes": 80605
+    },
+    {
+      "path": "assets/official/squad/andrew-wogan.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/305e94f0-b769-11f1-8256-fbe0529c4315.jpg",
+      "bytes": 80805
+    },
+    {
+      "path": "assets/official/squad/josh-dacres-cogley.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/20e6b0e0-b767-11f1-9bd6-bf0315d1bcf3.jpg",
+      "bytes": 63321
+    },
+    {
+      "path": "assets/official/squad/ethan-pye.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/20dc77b0-b767-11f1-8154-ed15330d1f68.jpg",
+      "bytes": 87730
+    },
+    {
+      "path": "assets/official/squad/eoghan-o-connell.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/218f7400-b767-11f1-9cfb-b18b38f6414d.jpg",
+      "bytes": 91192
+    },
+    {
+      "path": "assets/official/squad/tom-wilson-brown.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/20dcece0-b767-11f1-bbc6-5bd0029a1ef1.jpg",
+      "bytes": 107599
+    },
+    {
+      "path": "assets/official/squad/tayo-edun.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/20a31830-b767-11f1-bbc6-5bd0029a1ef1.jpg",
+      "bytes": 74775
+    },
+    {
+      "path": "assets/official/squad/ryan-rydel.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/21722800-b767-11f1-bba0-774ebc67d273.jpg",
+      "bytes": 91968
+    },
+    {
+      "path": "assets/official/squad/mamadou-jobe.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/209387d0-b767-11f1-8154-ed15330d1f68.jpg",
+      "bytes": 75414
+    },
+    {
+      "path": "assets/official/squad/jay-mingi.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/8d9dfbf0-b76f-11f1-ac15-4b93dde9c2d6.jpg",
+      "bytes": 104179
+    },
+    {
+      "path": "assets/official/squad/kyron-gordon.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/ff440880-97cb-11f1-8c7e-619d233fa8e1.jpg",
+      "bytes": 97109
+    },
+    {
+      "path": "assets/official/squad/brad-hills.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/218c18a0-b767-11f1-8a19-f724db72af3d.jpg",
+      "bytes": 91652
+    },
+    {
+      "path": "assets/official/squad/lewis-bate.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/38571630-97cc-11f1-8c7e-619d233fa8e1.jpg",
+      "bytes": 104949
+    },
+    {
+      "path": "assets/official/squad/harry-wood.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/219ce180-b767-11f1-b750-f91f75fd5ead.jpg",
+      "bytes": 95958
+    },
+    {
+      "path": "assets/official/squad/lewis-fiorini.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/207db5e0-b767-11f1-bbc6-5bd0029a1ef1.jpg",
+      "bytes": 68835
+    },
+    {
+      "path": "assets/official/squad/jason-adigun.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/20daf110-b767-11f1-b47a-d57a285be68d.jpg",
+      "bytes": 67293
+    },
+    {
+      "path": "assets/official/squad/oliver-norwood.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/2117abf0-b767-11f1-afaa-e1ea34af77b8.jpg",
+      "bytes": 92850
+    },
+    {
+      "path": "assets/official/squad/ben-osborn.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/d5da6ba0-97cc-11f1-8c7e-619d233fa8e1.jpg",
+      "bytes": 90830
+    },
+    {
+      "path": "assets/official/squad/jack-diamond.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/213e6dd0-b767-11f1-913a-ed54bb98ab91.jpg",
+      "bytes": 85184
+    },
+    {
+      "path": "assets/official/squad/benony-andresson.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/20da06b0-b767-11f1-afaa-e1ea34af77b8.jpg",
+      "bytes": 70632
+    },
+    {
+      "path": "assets/official/squad/kyle-wootton.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/215d8e90-b767-11f1-afaa-e1ea34af77b8.jpg",
+      "bytes": 96924
+    },
+    {
+      "path": "assets/official/squad/mikael-mandron.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/21905e60-b767-11f1-9f95-155a7fa46641.jpg",
+      "bytes": 93508
+    },
+    {
+      "path": "assets/official/squad/ryan-glover.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/660b86b0-97cc-11f1-8c7e-619d233fa8e1.jpg",
+      "bytes": 90440
+    },
+    {
+      "path": "assets/official/squad/adama-sidibeh.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/21905e60-b767-11f1-9879-59ded04fb856.jpg",
+      "bytes": 87086
+    },
+    {
+      "path": "assets/official/squad/che-gardner.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/27331cb0-b76f-11f1-ac15-4b93dde9c2d6.jpg",
+      "bytes": 92280
+    },
+    {
+      "path": "assets/official/squad/jimmy-mcnulty.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/bb665580-b762-11f1-953a-399f442d6b08.jpg",
+      "bytes": 56588
+    },
+    {
+      "path": "assets/official/squad/ethan-ennis.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/e6d7e390-9b16-11f1-a710-6fba7fdeb519.jpg",
+      "bytes": 112858
+    },
+    {
+      "path": "assets/official/squad/jason-taylor.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/bb6459b0-b762-11f1-ad3f-99bec2812c7f.jpg",
+      "bytes": 55389
+    },
+    {
+      "path": "assets/official/squad/matty-done.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/e863dca0-b763-11f1-b1e8-795ab7fc5964.jpg",
+      "bytes": 56478
+    },
+    {
+      "path": "assets/official/squad/joppe-meulensteen.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/bb5fece0-b762-11f1-b7e9-976c4290d971.jpg",
+      "bytes": 52813
+    },
+    {
+      "path": "assets/official/squad/ben-hinchliffe.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/bb6e44c0-b762-11f1-b1e8-795ab7fc5964.jpg",
+      "bytes": 62728
+    },
+    {
+      "path": "assets/official/squad/sam-holt.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/bb5c1c50-b762-11f1-acd4-b9edd10e82ef.jpg",
+      "bytes": 56362
+    },
+    {
+      "path": "assets/official/squad/matt-jansen.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/bb656b20-b762-11f1-b23b-4bb3e2ab2366.jpg",
+      "bytes": 51961
+    },
+    {
+      "path": "assets/official/squad/john-shannon.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/2c6458b0-b770-11f1-ac15-4b93dde9c2d6.jpg",
+      "bytes": 55297
+    },
+    {
+      "path": "assets/official/squad/corey-addai.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/55620910-8124-11f1-a6ca-815ecc97ad6e.jpg",
+      "bytes": 108910
+    },
+    {
+      "path": "assets/official/squad/owen-dodgson.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/3ffd3d50-8125-11f1-a6ca-815ecc97ad6e.jpg",
+      "bytes": 143619
+    },
+    {
+      "path": "assets/official/squad/callum-camps.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/cad924f0-b76e-11f1-ac15-4b93dde9c2d6.jpg",
+      "bytes": 103781
+    },
+    {
+      "path": "assets/official/squad/malik-mothersille.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/1147d620-b760-11f1-be4b-1fa81b1169b3.jpg",
+      "bytes": 98001
+    },
+    {
+      "path": "assets/official/badges/t48.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/db1aed03-9f61-4309-a67e-c8bbc076bc66.png",
+      "bytes": 181963
+    },
+    {
+      "path": "assets/official/squad/owen-moxon.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/c12a13e0-c882-11f1-b71d-f910542ee7ed.jpg",
+      "bytes": 106310
+    },
+    {
+      "path": "assets/official/badges/t101.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/789c0902-7589-49e1-b4aa-cae69a91f830.png",
+      "bytes": 30072
+    },
+    {
+      "path": "assets/official/badges/t85.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/22f15c10-22cc-4cd5-8ba0-7bd440f8ca62.png",
+      "bytes": 314272
+    },
+    {
+      "path": "assets/official/badges/t77.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/ba66037c-b0fb-45a6-b860-756d38c43de0.png",
+      "bytes": 106001
+    },
+    {
+      "path": "assets/official/badges/t108.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/4be028bd-3a8c-4e15-85ce-c4858c469f6e.png",
+      "bytes": 32361
+    },
+    {
+      "path": "assets/official/badges/t22.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/280ff7a6-59f9-482c-92f3-f727bf3493e8.png",
+      "bytes": 174817
+    },
+    {
+      "path": "assets/official/badges/t288.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/ad4dc5e1-d554-440b-9549-7b5926bd2be1.png",
+      "bytes": 147277
+    },
+    {
+      "path": "assets/official/badges/t55.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/1b466e1c-8d81-42b7-b4b7-3dfc01132461.png",
+      "bytes": 176973
+    },
+    {
+      "path": "assets/official/badges/t38.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/ca7d0481-926d-41a7-b078-7c1b2e9934b9.png",
+      "bytes": 199032
+    },
+    {
+      "path": "assets/official/badges/t587.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/2d772b0c-6d71-494d-a5e0-22d83d8a18bc.png",
+      "bytes": 99835
+    },
+    {
+      "path": "assets/official/badges/t2050.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/b4c9698e-4302-40c5-9751-7a69fce5f28e.png",
+      "bytes": 76022
+    },
+    {
+      "path": "assets/official/badges/t290.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/aa6c8e9b-e771-41ab-a662-2261215db87f.png",
+      "bytes": 186524
+    },
+    {
+      "path": "assets/official/badges/t104.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/d8a3b999-38a7-42dc-947a-5181e5376cee.png",
+      "bytes": 44752
+    },
+    {
+      "path": "assets/official/badges/t112.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/1d276581-99d9-4df4-a882-54b6b3e3c625.png",
+      "bytes": 22634
+    },
+    {
+      "path": "assets/official/badges/t2623.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/4cbb07e8-80cb-401a-80b7-eb20bf4726a0.png",
+      "bytes": 14654
+    },
+    {
+      "path": "assets/official/badges/t111.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/471b5f63-3db6-4896-8508-f31e5e567911.png",
+      "bytes": 109391
+    },
+    {
+      "path": "assets/official/badges/t102.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/216df721-8bd4-44ac-939f-77c885e1ab0f.png",
+      "bytes": 133380
+    },
+    {
+      "path": "assets/official/badges/t13.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/ab5977a9-3979-4963-ad01-081cad74faa5.png",
+      "bytes": 71827
+    },
+    {
+      "path": "assets/official/badges/t76.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/64423daf-97b7-4999-854c-86cdb00297a9.png",
+      "bytes": 176233
+    },
+    {
+      "path": "assets/official/badges/t73.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/bde676c8-ff6a-4963-861b-0ce2f6295975.png",
+      "bytes": 23983
+    },
+    {
+      "path": "assets/official/badges/t92.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/57805dc0-161f-4291-95f3-a1d1dc565ba3.png",
+      "bytes": 174286
+    },
+    {
+      "path": "assets/official/badges/t19.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/27b2fce7-9be9-4c47-acfd-b131fa30cb6f.png",
+      "bytes": 167822
+    },
+    {
+      "path": "assets/official/badges/t106.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/e128db3b-942b-4cdb-9245-f49f24a60e83.png",
+      "bytes": 15628
+    },
+    {
+      "path": "assets/official/badges/t37.png",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/98522f49-7aac-48b9-90a4-e3742101166b.png",
+      "bytes": 310195
+    },
+    {
+      "path": "assets/official/news/stockport-county-community-trust-to-launch-project-for-fans--supported-by-the-premier-league.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/0424e3f0-de81-11f1-b081-979a2ef2a47f.jpg",
+      "bytes": 160275
+    },
+    {
+      "path": "assets/official/news/club-statement--microsoft-outage.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/3d0109e0-6bbb-11f0-af3f-67cabc7ec1c2.jpg",
+      "bytes": 445699
+    },
+    {
+      "path": "assets/official/news/match-preview--county-v-reading.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/22ed0750-df6b-11f1-bcc2-4b7a57be22d5.jpg",
+      "bytes": 1649296
+    },
+    {
+      "path": "assets/official/news/county-proud-to-support-stroke-information-this-weekend.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/81145940-79d7-11f1-bee3-bf4275ba091b.jpg",
+      "bytes": 1035322
+    },
+    {
+      "path": "assets/official/news/club-statement-lifetime-ban.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/3d0109e0-6bbb-11f0-af3f-67cabc7ec1c2.jpg",
+      "bytes": 445699
+    },
+    {
+      "path": "assets/official/news/match-officials---reading--h-.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/fb072a80-de8a-11f1-ba51-2f2298d404a2.jpg",
+      "bytes": 612539
+    },
+    {
+      "path": "assets/official/news/jersey-mike-s-trophy-match-report--county---tranmere.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/de61c3e0-dd4f-11f1-80c3-dfaa51553c8b.jpg",
+      "bytes": 2012684
+    },
+    {
+      "path": "assets/official/news/county-discover-fa-cup-second-round-opponents.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/35d0da80-dc6a-11f1-a467-4b53d682c152.jpg",
+      "bytes": 981040
+    },
+    {
+      "path": "assets/official/news/match-officials---tranmere-rovers--h-.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/2517b5f0-dc3e-11f1-b8e2-637edd0454b5.jpg",
+      "bytes": 65215
+    },
+    {
+      "path": "assets/official/news/bolton-wanderers-v-county-preview.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/60c344a0-55fe-11f1-a83f-5b67298ab9fe.jpg",
+      "bytes": 388783
+    },
+    {
+      "path": "assets/official/news/eoghan-o-connell-named-as-october-s-christophe-duchamp-player-of-the-month-.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/297745a0-df56-11f1-92b9-e98a81b1b5ac.jpg",
+      "bytes": 1884731
+    },
+    {
+      "path": "assets/official/news/match-report--york-city-ladies-0-4-county-women.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/16ec5470-dc4f-11f1-8076-013bd1542ae0.jpg",
+      "bytes": 3490805
+    },
+    {
+      "path": "assets/official/news/county-courtyard-reading.jpg",
+      "source": "https://images.gc.stockportcountyfcservices.co.uk/112cb6c0-6dfa-11f0-b18a-9391c4d3558c.jpg",
+      "bytes": 3016443
+    }
+  ]
+}

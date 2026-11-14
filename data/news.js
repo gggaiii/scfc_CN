@@ -1,4 +1,22 @@
-export const newsArticles = [
+import officialMedia from "./official-media.json" with { type: "json" };
+import fanContent from './fan-content.json' with {type:'json'};
+const legacyArticles = [
+  {
+    slug: "reading-officials-november-2026", pinned: true, date: "2026-11-12", category: "赛前消息",
+    title: "主场迎战雷丁：裁判安排公布",
+    summary: "11月14日主场对雷丁，博比·马德利担任主裁判。",
+    image: "assets/edgeley-park-aerial.jpg",
+    sourceUrl: "https://www.stockportcounty.com/news/2026/november/12/match-officials---reading--h-/",
+    body: ["俱乐部确认，主场对雷丁的英甲比赛将由博比·马德利执法。", "理查德·伍德沃德和马修·索尔比担任助理裁判，利·道蒂担任第四官员。本文为官方公告的中文摘要。"],
+  },
+  {
+    slug: "fa-cup-reading-draw-2026", pinned: false, date: "2026-11-09", category: "足总杯",
+    title: "足总杯第二轮：客场对阵雷丁",
+    summary: "帽匠将在12月5日所在周末客场挑战雷丁，详细安排以官方公告为准。",
+    image: "assets/county-playoffs-team.jpg",
+    sourceUrl: "https://www.stockportcounty.com/news/2026/november/09/county-discover-fa-cup-second-round-opponents/",
+    body: ["帽匠在足总杯第二轮抽中雷丁，比赛将在客场进行。", "吉米·麦克纳尔蒂的球队此前在少一人、两球落后的情况下，经加时赛3比2逆转克雷流浪者。本文为官方报道的中文摘要。"],
+  },
   {
     slug: "bolton-wanderers-v-county-preview",
     pinned: false,
@@ -16,7 +34,7 @@ export const newsArticles = [
   },
   {
     slug: "season-preview",
-    pinned: true,
+    pinned: false,
     date: "2026-05-23",
     category: "官方新闻",
     title: "中文页保留摘要，详细内容跳转官方英文站",
@@ -54,3 +72,9 @@ export const newsArticles = [
     ],
   },
 ];
+
+export const newsArticles = [...fanContent.news, ...legacyArticles.filter(a=>a.slug==='bolton-wanderers-v-county-preview')];
+for (const article of newsArticles) {
+  const media = officialMedia.news.find(item => item.slug === article.slug);
+  if (media) article.image = media.image;
+}

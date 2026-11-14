@@ -1,0 +1,83 @@
+{
+  "propertyID": "",
+  "listingMediaLibraryID": null,
+  "metaTitle": null,
+  "postStatus": "Published",
+  "heroStyleSmall": "Deep",
+  "keywords": null,
+  "imageOrigins": {
+    "defaultOrigin": "center",
+    "largeOrigin": "",
+    "smallOrigin": ""
+  },
+  "unschedule": 0,
+  "content": [
+    {
+      "rowData": {
+        "widgetData": {
+          "content": "<p>County will face Reading away from home in the second round of the Emirates FA Cup following this evening's draw live on TNT Sports.</p>\n<p>The Hatters booked their place in the second round in dramatic circumstances on Sunday afternoon, coming from two goals down with ten men to beat seventh tier Cray Wanderers 3-2 in extra time.</p>\n<p>Jimmy McNulty's side will now travel to promotion rivals Reading on the weekend of Saturday 5th December. Leam Richardson's side are currently sixth in League One, four points behind County, with the two sides set to meet at Edgeley Park this weekend.</p>\n<p>Further details for this fixture will be announced in due course.</p>",
+          "contentDouble": null,
+          "imageKey": null,
+          "mediaLibraryID": null,
+          "toggleDouble": null
+        },
+        "widgetID": "3f4b2751-dc6a-11f1-b626-f187a202bbe9",
+        "widgetName": "Text Block",
+        "widgetType": "TextBlockWidget"
+      },
+      "rowID": "3f4b2750-dc6a-11f1-b626-f187a202bbe9"
+    }
+  ],
+  "postCategory": "/men",
+  "sendToOneFootball": 0,
+  "scheduled": 0,
+  "postTitle": "County discover FA Cup Second Round opponents",
+  "childFriendly": false,
+  "disableAdvertising": false,
+  "postSlug": "/news/2026/november/09/county-discover-fa-cup-second-round-opponents/",
+  "cardStyle": "",
+  "unscheduleDateTime": null,
+  "showInFeed": 1,
+  "postSlugSuffix": "county-discover-fa-cup-second-round-opponents",
+  "postAuthor": "",
+  "publishedDateTime": "2026-11-09T18:55:00Z",
+  "description": null,
+  "savedTimestamp": "2026-11-09T18:58:44Z",
+  "heroStyleLarge": "Deep",
+  "textToVoice": null,
+  "postID": "38a900c0-dc6a-11f1-8911-99993f36eb3e",
+  "feedWidth": "single",
+  "hideFromVoice": false,
+  "tagsData": {
+    "clubTags": [],
+    "competitionTags": [],
+    "eventsTags": [],
+    "fixtureTags": [],
+    "playerTags": [],
+    "squadTags": [],
+    "tournamentTypeTags": []
+  },
+  "mediaLibraryID": "35d0da80-dc6a-11f1-a467-4b53d682c152",
+  "hidePublicationDate": false,
+  "heroSmallMediaLibraryID": null,
+  "imageData": {
+    "location": "https://s3.eu-west-1.amazonaws.com/gc-media-assets-v2.gc.stockportcountyfcservices.co.uk/35d0da80-dc6a-11f1-a467-4b53d682c152.jpg",
+    "searchString": "tv_craywanderers_081126-003 web.jpg",
+    "altTag": "",
+    "mediaLibraryID": "35d0da80-dc6a-11f1-a467-4b53d682c152",
+    "status": "ACTIVE",
+    "mediaDirectoryID": "root",
+    "fileType": "image/jpeg",
+    "savedTimestamp": "2026-11-09T18:20:15Z",
+    "key": "35d0da80-dc6a-11f1-a467-4b53d682c152.jpg",
+    "description": "",
+    "name": "TV_CrayWanderers_081126-003 Web.jpg",
+    "tags": []
+  },
+  "forcedOrder": 3,
+  "inApp": 1,
+  "newsCategory": "Men",
+  "newsCategoryID": "/men",
+  "onSite": 1,
+  "postCount": 21
+}

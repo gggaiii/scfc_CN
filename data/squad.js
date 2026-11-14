@@ -1,4 +1,10 @@
+import officialMedia from "./official-media.json" with { type: "json" };
+import {playerNames} from './player-names.js';
+import {slugify} from '../modules/core.js';
+import playerSlugs from './player-slugs.json' with {type:'json'};
+import {playerProfiles} from './player-profiles.js';
 export const squadPlayers = [
+  { name: "Jimmy McNulty", group: "coaches", role: "主教练", leadership: "主教练", image: "assets/stockport-county-fc-logo.png", intro: "吉米·麦克纳尔蒂，现任一线队主教练；2026年11月官方报道已确认。", currentVerified: true },
   { name: "Dave Challinor", group: "coaches", role: "主教练", leadership: "主教练", image: "assets/squad/coaches/Challinor-01.jpg", intro: "球队长期建设的核心人物，负责一线队战术、训练与比赛管理。" },
   { name: "Clint Hill", group: "coaches", role: "助理教练", image: "assets/squad/coaches/Hill-01.jpg", intro: "一线队教练组成员，协助训练组织、防守细节和比赛准备。" },
   { name: "Austin", group: "coaches", role: "一线队教练", image: "assets/squad/coaches/Austin-01.jpg", intro: "一线队训练团队成员，参与日常训练、球员沟通和比赛日准备。" },
@@ -19,14 +25,14 @@ export const squadPlayers = [
     role: "门将",
     leadership: "副队长",
     image: "assets/squad/Hinchliffe-01.jpg",
-    intro: "郡队传奇门将，长期稳定的一号门将，也是斯托克波特郡现代复兴的重要见证者。",
+    intro: "帽匠传奇门将，长期稳定的一号门将，也是斯托克波特郡现代复兴的重要见证者。",
     highlights: ["2016年加盟", "350+次出场", "100+场零封", "三次随队升级", "2023/24英乙金手套"],
     detailSections: [
       {
         title: "加盟与早年经历",
         paragraphs: [
-          "郡队传奇门将本·欣奇利夫于2016年5月加盟斯托克波特郡。在来到埃奇利公园之前，他曾在AFC菲尔德度过极为成功的四年时光，连续四个赛季参加升级附加赛，并且每年都入选所在联赛年度最佳阵容。",
-          "本的职业生涯起步于比利·戴维斯执教时期的普雷斯顿北区，随后跟随戴维斯前往德比郡。他之后曾短暂效力于牛津联，随后回到兰开夏加盟班伯桥，再在前郡队前锋安迪·普里斯麾下效力于诺斯维奇维多利亚，接替詹姆斯·斯宾塞成为球队一号门将。",
+          "帽匠传奇门将本·欣奇利夫于2016年5月加盟斯托克波特郡。在来到埃奇利公园之前，他曾在AFC菲尔德度过极为成功的四年时光，连续四个赛季参加升级附加赛，并且每年都入选所在联赛年度最佳阵容。",
+          "本的职业生涯起步于比利·戴维斯执教时期的普雷斯顿北区，随后跟随戴维斯前往德比郡。他之后曾短暂效力于牛津联，随后回到兰开夏加盟班伯桥，再在前帽匠前锋安迪·普里斯麾下效力于诺斯维奇维多利亚，接替詹姆斯·斯宾塞成为球队一号门将。",
         ],
       },
       {
@@ -46,7 +52,7 @@ export const squadPlayers = [
       {
         title: "传奇地位的确立",
         paragraphs: [
-          "效力郡队期间，本已经为俱乐部出场超过350次，进一步巩固了自己作为斯托克波特郡传奇人物的地位。2020/21赛季是他身披郡队战袍以来最成功的赛季之一，他在国家联赛完成19场零封，为联赛所有门将之最，尽管球队最终在附加赛中遗憾错失升级。",
+          "效力帽匠期间，本已经为俱乐部出场超过350次，进一步巩固了自己作为斯托克波特郡传奇人物的地位。2020/21赛季是他身披帽匠战袍以来最成功的赛季之一，他在国家联赛完成19场零封，为联赛所有门将之最，尽管球队最终在附加赛中遗憾错失升级。",
           "他的表现也让他与瑞安·克罗斯代尔共同获得俱乐部“球员票选年度最佳球员”奖项。",
         ],
       },
@@ -60,7 +66,7 @@ export const squadPlayers = [
       {
         title: "EFL赛场的稳定表现",
         paragraphs: [
-          "在自己作为英格兰足球联赛门将的首个完整赛季中，35岁的本继续迎接挑战。他在各项赛事中出场46次，共完成18场零封，这是自1996/97赛季保罗·琼斯以来，郡队门将在EFL赛季中的最佳零封纪录。",
+          "在自己作为英格兰足球联赛门将的首个完整赛季中，35岁的本继续迎接挑战。他在各项赛事中出场46次，共完成18场零封，这是自1996/97赛季保罗·琼斯以来，帽匠门将在EFL赛季中的最佳零封纪录。",
           "球队整个赛季仅丢37球，成为当季英乙第二佳防守纪录，也是俱乐部自1921/22赛季以来、超过100年间的最佳防守表现。",
         ],
       },
@@ -68,7 +74,7 @@ export const squadPlayers = [
         title: "纪录、温布利与冠军",
         paragraphs: [
           "2023年1月，对阵格林斯比镇的比赛中，本迎来了自己代表俱乐部的第300次出场。而仅仅一个月后，在对阵哈罗盖特的比赛中完成第307次出场时，他又打破了俱乐部门将历史出场纪录。",
-          "在随后对阵索尔福德城的升级附加赛半决赛中，他在点球大战中扑出两粒点球，帮助郡队晋级温布利，再次奠定了自己的传奇地位。",
+          "在随后对阵索尔福德城的升级附加赛半决赛中，他在点球大战中扑出两粒点球，帮助帽匠晋级温布利，再次奠定了自己的传奇地位。",
           "接下来的赛季，本正式写入斯托克波特郡历史。他成为俱乐部历史上首位随队完成三次升级的球员，并帮助球队在戴夫·查利诺执教下夺得英乙冠军。那个赛季，本在联赛中打满每一分钟，并以17场零封获得联赛金手套奖。他的表现也让他同时当选球迷票选与球员票选年度最佳球员。",
         ],
       },
@@ -102,7 +108,7 @@ export const squadPlayers = [
   { name: "Brad Hills", number: "33", group: "defenders", role: "后卫", image: "assets/squad/Hills-01.jpg", intro: "中后卫选择之一，特点是对抗、落位和禁区防守。" },
   { name: "Christy Grogan", number: "45", group: "defenders", role: "后卫", image: "assets/squad/Grogan-01.jpg", intro: "防线年轻轮换选择，注重对抗、站位和禁区保护。" },
   { name: "Jade Jay Mingi", group: "defenders", role: "后卫/中场", squadStatus: "外租", image: "assets/squad/Mingi-01.jpg", intro: "能胜任后场和中场位置，目前以外租形式积累比赛时间。" },
-  { name: "Lewis Bate", number: "4", group: "midfielders", role: "中场", leadership: "队长", image: "assets/squad/Bate-01.jpg", intro: "技术型中场，擅长在中路接应、转移和向前输送，是球队中场节奏的重要连接点。" },
+  { name: "Lewis Bate", number: "4", group: "midfielders", role: "中场", image: "assets/squad/Bate-01.jpg", intro: "技术型中场，擅长在中路接应、转移和向前输送，是球队中场节奏的重要连接点。" },
   { name: "Jack Diamond", number: "7", group: "midfielders", role: "中场/边路", image: "assets/squad/Diamond-01.jpg", intro: "边路进攻球员，特点是速度、突破和向禁区输送。" },
   { name: "Callum Camps", number: "8", group: "midfielders", role: "中场", image: "assets/squad/Camps-01.jpg", intro: "攻守均衡的中场球员，能插上进攻也能参与压迫。" },
   { name: "Owen Moxon", group: "midfielders", role: "中场", squadStatus: "外租", image: "assets/squad/Moxon-01.jpg", intro: "中场组织与推进选择，目前以外租形式获得更多比赛机会。" },
@@ -114,16 +120,16 @@ export const squadPlayers = [
     number: "26",
     group: "midfielders",
     role: "中场",
-    leadership: "副队长",
+    leadership: "队长",
     image: "assets/squad/Norwood-01.jpg",
-    intro: "经验丰富的中场指挥者，拥有多次升级经历和丰富英超经验。",
+    intro: "现任球队队长，经验丰富的中场指挥者，拥有多次升级经历和丰富英超经验。",
     highlights: ["2024年加盟", "前北爱尔兰国脚", "三次英冠升级", "PFA英冠年度最佳阵容", "首季49场5球"],
     detailSections: [
       {
         title: "重磅加盟",
         paragraphs: [
           "经验丰富的中场球员奥利·诺伍德于2024年夏天加盟斯托克波特郡。在球队以联赛冠军身份升入英甲后不久，这笔签约被视为俱乐部的一次重磅宣言。",
-          "34岁的诺伍德此前一个赛季仍在英超联赛中为谢菲尔德联效力，共出场27次。但在离开布拉莫巷后，他选择与斯托克波特郡签下一份为期三年的合同，来到埃奇利公园。",
+          "诺伍德此前一个赛季仍在英超联赛中为谢菲尔德联效力，共出场27次。但在离开布拉莫巷后，他选择与斯托克波特郡签下一份为期三年的合同，来到埃奇利公园。",
         ],
       },
       {
@@ -158,7 +164,7 @@ export const squadPlayers = [
         title: "英超舞台",
         paragraphs: [
           "28岁的诺伍德，在经历三次升级之后，终于迎来了征战英超的机会，并迅速证明了自己。他在谢菲尔德联那个赛季的38场联赛中全部出场，帮助球队以英超第九名完赛，仅一步之遥无缘欧战资格。",
-          "尽管谢菲尔德联于2020年从英超降级，但诺伍德依然是布拉莫巷的重要核心。2022年，他再次作为球队主力，帮助谢菲尔德联重返英超。",
+          "尽管谢菲尔德联于2021年从英超降级，但诺伍德依然是布拉莫巷的重要核心。2023年，他再次作为球队主力，帮助谢菲尔德联重返英超。",
         ],
       },
       {
@@ -184,7 +190,31 @@ export const squadPlayers = [
   { name: "Jid Okeke", group: "forwards", role: "前锋", squadStatus: "外租", image: "assets/squad/Okeke-01.jpg", intro: "锋线年轻力量，目前以外租形式争取更多一线队出场时间。" },
 ];
 
+const previousPlayers = [...squadPlayers];
+const aliases = { "Benoný Andrésson": "Benoný Breki Andrésson", "Jay Mingi": "Jade Jay Mingi" };
+squadPlayers.splice(0, squadPlayers.length, ...officialMedia.players.map(person => {
+  const previous = previousPlayers.find(p => p.name === (aliases[person.name] || person.name));
+  const staff = person.group === "coaches";
+  return { ...previous, ...person, number: staff ? undefined : person.number, squadStatus: person.squadStatus, currentVerified: true,
+    leadership: person.name === "Jimmy McNulty" ? "主教练" : staff ? undefined : previous?.leadership,
+    intro: staff ? `${person.name}，现任斯托克波特郡${person.role}。` : previous?.intro || `${person.name}，2026/27赛季${person.number || ""}号${person.role}。`,
+    profileNote: "姓名、职务、号码及照片来源：俱乐部官方网站，2026年11月14日核验。生涯统计保留对应赛季记录。"
+  };
+}));
 squadPlayers.forEach((player) => {
+  player.zhName = playerNames[player.name];
+  player.slug = playerSlugs[player.playerID || player.name] || slugify(player.name);
+  const profile = playerProfiles[player.slug];
+  if (profile) {
+    const previousSections = player.detailSections || [];
+    const previousHighlights = player.highlights || [];
+    Object.assign(player, profile);
+    player.intro = profile.shortIntro;
+    player.detailSections = profile.preserveDetailSections ? [...profile.detailSections, ...previousSections] : profile.detailSections;
+    player.highlights = [...new Set([...profile.highlights, ...previousHighlights])];
+    player.profileNote = `中文资料更新于${profile.profileUpdatedAt}。历史统计对应所述赛季或公告日期，不代表实时累计数据。`;
+  }
+  if (!player.currentVerified) player.profileNote = "历史资料：号码、职务及租借状态来自2025/26资料，尚待2026/27官方名单逐项确认。";
   player.shortIntro ??= player.intro;
-  player.detail ??= `${player.intro} 后续可以在这里继续补充他的技术特点、加盟背景、赛季角色、代表比赛和中文球迷观察。`;
+  player.detail ??= player.intro;
 });

@@ -501,13 +501,13 @@ h1 {
   display: grid;
   grid-template-columns: minmax(260px, 0.8fr) minmax(280px, 1fr);
   gap: clamp(22px, 5vw, 42px);
-  align-items: center;
+  align-items: start;
 }
 
 .player-profile-card img {
   height: auto;
   min-height: 0;
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 1 / 1;
   margin-bottom: 0;
   object-fit: contain;
   background: #f3ede9;
@@ -703,7 +703,7 @@ h1 {
 .player-card img {
   display: block;
   width: 100%;
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 1 / 1;
   margin-bottom: 14px;
   object-fit: contain;
   object-position: center top;
@@ -753,7 +753,7 @@ h1 {
 .mini-player-card img {
   display: block;
   width: 100%;
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 1 / 1;
   margin-bottom: 14px;
   object-fit: contain;
   object-position: center top;

@@ -10,12 +10,14 @@ const htmlInputsFrom = (folder, prefix) =>
   );
 
 export default defineConfig({
+  base: "./",
   build: {
     rollupOptions: {
       input: {
         main: resolve(__dirname, "index.html"),
         news: resolve(__dirname, "news/index.html"),
         squad: resolve(__dirname, "squad/index.html"),
+        history: resolve(__dirname, "history/index.html"),
         ...htmlInputsFrom("news", "news"),
         ...htmlInputsFrom("squad", "squad"),
       },

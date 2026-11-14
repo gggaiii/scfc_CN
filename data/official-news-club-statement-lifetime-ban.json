@@ -1,0 +1,108 @@
+{
+  "showInFeed": 1,
+  "cardStyle": "",
+  "publishedDateTime": "2026-11-12T10:00:00Z",
+  "postID": "9b9e7f10-de7d-11f1-8368-cb58f5936143",
+  "description": null,
+  "mediaLibraryID": "3d0109e0-6bbb-11f0-af3f-67cabc7ec1c2",
+  "unscheduleDateTime": null,
+  "disableAdvertising": false,
+  "childFriendly": false,
+  "postCategory": "/club",
+  "heroStyleSmall": "Deep",
+  "heroSmallMediaLibraryID": null,
+  "unschedule": 0,
+  "feedWidth": "single",
+  "sendToOneFootball": 0,
+  "postTitle": "CLUB STATEMENT: LIFETIME BAN",
+  "tagsData": {
+    "clubTags": [],
+    "competitionTags": [],
+    "eventsTags": [],
+    "fixtureTags": [],
+    "playerTags": [],
+    "squadTags": [],
+    "tournamentTypeTags": []
+  },
+  "postSlug": "/news/2026/november/12/club-statement-lifetime-ban/",
+  "postSlugSuffix": "club-statement-lifetime-ban",
+  "textToVoice": null,
+  "scheduled": 0,
+  "savedTimestamp": "2026-11-12T10:55:58Z",
+  "keywords": null,
+  "metaTitle": null,
+  "propertyID": "",
+  "listingMediaLibraryID": null,
+  "hideFromVoice": false,
+  "postStatus": "Published",
+  "hidePublicationDate": false,
+  "postAuthor": "Club",
+  "heroStyleLarge": "Deep",
+  "content": [
+    {
+      "rowData": {
+        "widgetData": {
+          "content": "<p>In November, an individual appeared before Stockport Magistrates' Court in relation to offences committed following the Stockport County vs Stevenage FC Sky Bet League One Play-Off Semi-Final on 13 May 2026.&nbsp;</p>\n<p>The individual pleaded guilty to Common Assault and Pitch Encroachment after entering the field of play and assaulting a Stevenage player following the conclusion of the fixture. The individual was made subject to a 3-year Football Banning Order. The club takes due notice of this Order and has issued a lifetime ban for Edgeley Park.</p>\n<p>The club cooperated fully with Greater Manchester Police in connection with its investigation in this case and reiterates its apology to Stevenage FC and Filip Marschall.</p>",
+          "contentDouble": null,
+          "imageKey": null,
+          "mediaLibraryID": null,
+          "toggleDouble": null
+        },
+        "widgetID": "7c8e60e1-de7d-11f1-8d1f-59b5f931ecff",
+        "widgetName": "Text Block",
+        "widgetType": "TextBlockWidget"
+      },
+      "rowID": "7c8e60e0-de7d-11f1-8d1f-59b5f931ecff"
+    },
+    {
+      "rowData": {
+        "widgetData": {
+          "style": "Colour"
+        },
+        "widgetID": "856d09f1-de7d-11f1-8d1f-59b5f931ecff",
+        "widgetName": "Horizontal Line",
+        "widgetType": "HorizontalLineWidget"
+      },
+      "rowID": "856d09f0-de7d-11f1-8d1f-59b5f931ecff"
+    },
+    {
+      "rowData": {
+        "widgetData": {
+          "content": "<p>We are proud of our values, which underpin everything we do as a club.</p>\n<p>We are proud of the role we play in our community and that our supporters are at the heart of everything we do. However, this means we will act responsibly in the event of unacceptable behaviour at Edgeley Park. The field of play must be respected and serve as a safe place as well as a workplace for players and officials. As our pitch-side signage and this case make clear, entering the pitch is a criminal offence.</p>\n<p>The club takes allegations of disorderly or improper behaviour seriously and will investigate any allegations thoroughly, cooperating with external agencies.</p>\n<p>We are committed to ensuring that Edgeley Park is a safe place for us all to watch and enjoy great sport.</p>",
+          "contentDouble": null,
+          "imageKey": null,
+          "mediaLibraryID": null,
+          "toggleDouble": null
+        },
+        "widgetID": "88bb2381-de7d-11f1-8d1f-59b5f931ecff",
+        "widgetName": "Text Block",
+        "widgetType": "TextBlockWidget"
+      },
+      "rowID": "88bb2380-de7d-11f1-8d1f-59b5f931ecff"
+    }
+  ],
+  "imageOrigins": {
+    "defaultOrigin": "center",
+    "largeOrigin": "",
+    "smallOrigin": ""
+  },
+  "imageData": {
+    "location": "https://s3.eu-west-1.amazonaws.com/gc-media-assets-v2.gc.stockportcountyfcservices.co.uk/3d0109e0-6bbb-11f0-af3f-67cabc7ec1c2.jpg",
+    "searchString": "statement-9x16.jpg",
+    "mediaLibraryID": "3d0109e0-6bbb-11f0-af3f-67cabc7ec1c2",
+    "mediaDirectoryID": "root",
+    "status": "ACTIVE",
+    "savedTimestamp": "2025-07-28T14:00:37Z",
+    "fileType": "image/jpeg",
+    "description": "",
+    "key": "3d0109e0-6bbb-11f0-af3f-67cabc7ec1c2.jpg",
+    "name": "statement-9x16.jpg",
+    "tags": []
+  },
+  "forcedOrder": 1,
+  "inApp": 1,
+  "newsCategory": "Club",
+  "newsCategoryID": "/club",
+  "onSite": 1,
+  "postCount": 119
+}
