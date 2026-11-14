@@ -20,7 +20,11 @@ npm.cmd run preview
 
 ## GitHub Pages 发布
 
-网站代码位于 `master` 分支。推送到该分支后，`.github/workflows/deploy-pages.yml` 会安装锁定依赖、生成页面、检查人物资料，再发布 `dist/`。仓库 Settings > Pages 的发布来源应为 GitHub Actions。
+网站源码及默认分支为 `master`，当前上线文件位于 `gh-pages`。Settings > Pages 使用 **Deploy from a branch > gh-pages > /(root)**。当前采用本地构建发布，不依赖自定义云端构建任务。
+
+更新时先运行 `npm.cmd run build`，提交生成结果并推送 `master`，再运行 `npm.cmd run publish:pages`。发布脚本使用本机 Git Credential Manager 中已登录的 GitHub 凭据，仅更新 `gh-pages`；不会打印或保存令牌，也不会修改付款信息。发布前要求源码已提交、已同步远端，上传后会逐文件校验哈希。`node tools/publish-static-pages.mjs --dry-run` 只检查本地待发布文件。
+
+`.github/workflows/deploy-pages.yml` 保留了手动触发的云端构建发布流程。需要切换回云端自动部署时，先确认自定义 Actions 构建可正常运行，再把 Pages 发布来源改为 GitHub Actions、恢复工作流对 `master` 的 push 触发，并手动运行该工作流。当前推送源码不会自动更新线上页面，仍需运行本地发布命令。
 
 免费访问地址为 `https://gggaiii.github.io/scfc_CN/`。资源使用相对路径，兼容项目子目录和后续自定义域名。不要将 `stockportcounty-china.xxxx` 这样的占位名称配置成真实域名；购买并验证完整域名后，再配置 Pages 和 DNS。
 

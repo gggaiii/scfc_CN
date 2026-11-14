@@ -1,8 +1,7 @@
 name: Deploy Website to GitHub Pages
 
 on:
-  push:
-    branches: [master]
+  # Restore the master push trigger when switching Pages back to Actions.
   workflow_dispatch:
 
 permissions:
